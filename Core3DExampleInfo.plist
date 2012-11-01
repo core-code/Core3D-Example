@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ApplicationName</key>
+	<string>Core3DExample</string>
+	<key>ApplicationDescription</key>
+	<string>Core3DExample</string>
+	<key>ApplicationRelease</key>
+	<string>1.0.0</string>
+	<key>URL</key>
+	<string>http://www.corecode.at/</string>
+	<key>Copyright</key>
+	<string>Copyright 2007 - 2012 CoreCode.</string>
+	<key>Authors</key>
+	<array>
+		<string>CoreCode (www.corecode.at)</string>
+	</array>
+	<key>CopyrightDescription</key>
+	<string>MIT Licensed.</string>
+	<key>SimulationClass</key>
+	<string>Setupsimulation</string>
+</dict>
+</plist>
