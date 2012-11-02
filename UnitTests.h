@@ -3,7 +3,7 @@
 //  Core3D-ExampleTests
 //
 //  Created by CoreCode on 10.03.11.
-//  Copyright 2007 - 2012 CoreCode. Licensed under the MIT License, see _MIT_LICENSE.txt
+//  Copyright 2007 - 2012 CoreCode. Licensed under the MIT License.
 //
 
 #import <SenTestingKit/SenTestingKit.h>
