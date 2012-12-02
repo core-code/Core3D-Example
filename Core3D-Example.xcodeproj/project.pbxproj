@@ -158,7 +158,6 @@
 		B999A4EA1328F9990053C898 /* generateOctreeFromObj.py in Resources */ = {isa = PBXBuildFile; fileRef = B999A4A21328F9990053C898 /* generateOctreeFromObj.py */; };
 		B999A4EB1328F9990053C898 /* generatePathFromObj.py in Resources */ = {isa = PBXBuildFile; fileRef = B999A4A31328F9990053C898 /* generatePathFromObj.py */; };
 		B999A4EC1328F9990053C898 /* vecmath.py in Resources */ = {isa = PBXBuildFile; fileRef = B999A4A41328F9990053C898 /* vecmath.py */; };
-		B999A4ED1328F9990053C898 /* vecmath.pyc in Resources */ = {isa = PBXBuildFile; fileRef = B999A4A51328F9990053C898 /* vecmath.pyc */; };
 		B999A4EF1328F9990053C898 /* CollideableMeshBullet.mm in Sources */ = {isa = PBXBuildFile; fileRef = B999A4AA1328F9990053C898 /* CollideableMeshBullet.mm */; };
 		B999A4F01328F9990053C898 /* FocusingCamera.mm in Sources */ = {isa = PBXBuildFile; fileRef = B999A4AC1328F9990053C898 /* FocusingCamera.mm */; };
 		B999A4F11328F9990053C898 /* LODNode.mm in Sources */ = {isa = PBXBuildFile; fileRef = B999A4AE1328F9990053C898 /* LODNode.mm */; };
@@ -170,7 +169,6 @@
 		B999A4F71328F9990053C898 /* PathNode.mm in Sources */ = {isa = PBXBuildFile; fileRef = B999A4BB1328F9990053C898 /* PathNode.mm */; };
 		B999A4FB1328F9990053C898 /* ShadowShader.mm in Sources */ = {isa = PBXBuildFile; fileRef = B999A4C31328F9990053C898 /* ShadowShader.mm */; };
 		B999A4FC1328F9990053C898 /* Skybox.mm in Sources */ = {isa = PBXBuildFile; fileRef = B999A4C51328F9990053C898 /* Skybox.mm */; };
-		B999A4FD1328F9990053C898 /* benchplot.py in Resources */ = {isa = PBXBuildFile; fileRef = B999A4C71328F9990053C898 /* benchplot.py */; };
 		B999A5001328F9990053C898 /* StateUtilities.mm in Sources */ = {isa = PBXBuildFile; fileRef = B999A4CF1328F9990053C898 /* StateUtilities.mm */; };
 		B999A5011328F9990053C898 /* Utilities.mm in Sources */ = {isa = PBXBuildFile; fileRef = B999A4D11328F9990053C898 /* Utilities.mm */; };
 		B999A5021328F9990053C898 /* Camera.mm in Sources */ = {isa = PBXBuildFile; fileRef = B999A4731328F9990053C898 /* Camera.mm */; };
@@ -188,7 +186,6 @@
 		B999A51A1328F9990053C898 /* generateOctreeFromObj.py in Resources */ = {isa = PBXBuildFile; fileRef = B999A4A21328F9990053C898 /* generateOctreeFromObj.py */; };
 		B999A51B1328F9990053C898 /* generatePathFromObj.py in Resources */ = {isa = PBXBuildFile; fileRef = B999A4A31328F9990053C898 /* generatePathFromObj.py */; };
 		B999A51C1328F9990053C898 /* vecmath.py in Resources */ = {isa = PBXBuildFile; fileRef = B999A4A41328F9990053C898 /* vecmath.py */; };
-		B999A51D1328F9990053C898 /* vecmath.pyc in Resources */ = {isa = PBXBuildFile; fileRef = B999A4A51328F9990053C898 /* vecmath.pyc */; };
 		B999A51F1328F9990053C898 /* CollideableMeshBullet.mm in Sources */ = {isa = PBXBuildFile; fileRef = B999A4AA1328F9990053C898 /* CollideableMeshBullet.mm */; };
 		B999A5201328F9990053C898 /* FocusingCamera.mm in Sources */ = {isa = PBXBuildFile; fileRef = B999A4AC1328F9990053C898 /* FocusingCamera.mm */; };
 		B999A5211328F9990053C898 /* LODNode.mm in Sources */ = {isa = PBXBuildFile; fileRef = B999A4AE1328F9990053C898 /* LODNode.mm */; };
@@ -200,7 +197,6 @@
 		B999A5271328F9990053C898 /* PathNode.mm in Sources */ = {isa = PBXBuildFile; fileRef = B999A4BB1328F9990053C898 /* PathNode.mm */; };
 		B999A52B1328F9990053C898 /* ShadowShader.mm in Sources */ = {isa = PBXBuildFile; fileRef = B999A4C31328F9990053C898 /* ShadowShader.mm */; };
 		B999A52C1328F9990053C898 /* Skybox.mm in Sources */ = {isa = PBXBuildFile; fileRef = B999A4C51328F9990053C898 /* Skybox.mm */; };
-		B999A52D1328F9990053C898 /* benchplot.py in Resources */ = {isa = PBXBuildFile; fileRef = B999A4C71328F9990053C898 /* benchplot.py */; };
 		B999A5301328F9990053C898 /* StateUtilities.mm in Sources */ = {isa = PBXBuildFile; fileRef = B999A4CF1328F9990053C898 /* StateUtilities.mm */; };
 		B999A5311328F9990053C898 /* Utilities.mm in Sources */ = {isa = PBXBuildFile; fileRef = B999A4D11328F9990053C898 /* Utilities.mm */; };
 		B999A6231328F9AA0053C898 /* bullet.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B999A5341328F9AA0053C898 /* bullet.framework */; };
@@ -256,8 +252,6 @@
 		B9FB712F1404F66B00080741 /* generateOctreeFromObj.py in Resources */ = {isa = PBXBuildFile; fileRef = B999A4A21328F9990053C898 /* generateOctreeFromObj.py */; };
 		B9FB71301404F66B00080741 /* generatePathFromObj.py in Resources */ = {isa = PBXBuildFile; fileRef = B999A4A31328F9990053C898 /* generatePathFromObj.py */; };
 		B9FB71311404F66B00080741 /* vecmath.py in Resources */ = {isa = PBXBuildFile; fileRef = B999A4A41328F9990053C898 /* vecmath.py */; };
-		B9FB71321404F66B00080741 /* vecmath.pyc in Resources */ = {isa = PBXBuildFile; fileRef = B999A4A51328F9990053C898 /* vecmath.pyc */; };
-		B9FB71331404F66B00080741 /* benchplot.py in Resources */ = {isa = PBXBuildFile; fileRef = B999A4C71328F9990053C898 /* benchplot.py */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -446,7 +440,6 @@
 		B999A4A21328F9990053C898 /* generateOctreeFromObj.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = generateOctreeFromObj.py; sourceTree = "<group>"; };
 		B999A4A31328F9990053C898 /* generatePathFromObj.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = generatePathFromObj.py; sourceTree = "<group>"; };
 		B999A4A41328F9990053C898 /* vecmath.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = vecmath.py; sourceTree = "<group>"; };
-		B999A4A51328F9990053C898 /* vecmath.pyc */ = {isa = PBXFileReference; lastKnownFileType = file; path = vecmath.pyc; sourceTree = "<group>"; };
 		B999A4A71328F9990053C898 /* CollideableMesh.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CollideableMesh.h; sourceTree = "<group>"; };
 		B999A4A81328F9990053C898 /* CollideableMesh.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = CollideableMesh.mm; sourceTree = "<group>"; };
 		B999A4A91328F9990053C898 /* CollideableMeshBullet.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CollideableMeshBullet.h; sourceTree = "<group>"; };
@@ -475,7 +468,6 @@
 		B999A4C31328F9990053C898 /* ShadowShader.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = ShadowShader.mm; sourceTree = "<group>"; };
 		B999A4C41328F9990053C898 /* Skybox.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Skybox.h; sourceTree = "<group>"; };
 		B999A4C51328F9990053C898 /* Skybox.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = Skybox.mm; sourceTree = "<group>"; };
-		B999A4C71328F9990053C898 /* benchplot.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = benchplot.py; sourceTree = "<group>"; };
 		B999A4C81328F9990053C898 /* Core3D.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Core3D.h; sourceTree = "<group>"; };
 		B999A4C91328F9990053C898 /* Core3D_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Core3D_Prefix.pch; sourceTree = "<group>"; };
 		B999A4CA1328F9990053C898 /* opengl_linux.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = opengl_linux.cpp; sourceTree = "<group>"; };
@@ -569,7 +561,7 @@
 				B91784911418FAD400B525E6 /* NarrowPhaseCollision */,
 			);
 			name = BulletCollision;
-			path = "../_BULLET/bullet-svn/src/BulletCollision";
+			path = sources/bullet/src/BulletCollision;
 			sourceTree = "<group>";
 		};
 		B91783D11418FAD400B525E6 /* BroadphaseCollision */ = {
@@ -710,7 +702,7 @@
 				B91784C91418FAD400B525E6 /* btSerializer.cpp */,
 			);
 			name = LinearMath;
-			path = "../_BULLET/bullet-svn/src/LinearMath";
+			path = sources/bullet/src/LinearMath;
 			sourceTree = "<group>";
 		};
 		B927C6E61328F52E00A13FC5 = {
@@ -887,7 +879,6 @@
 				B999A4A21328F9990053C898 /* generateOctreeFromObj.py */,
 				B999A4A31328F9990053C898 /* generatePathFromObj.py */,
 				B999A4A41328F9990053C898 /* vecmath.py */,
-				B999A4A51328F9990053C898 /* vecmath.pyc */,
 			);
 			name = Preprocessing;
 			path = ../Core3D/Preprocessing;
@@ -940,7 +931,6 @@
 		B999A4C61328F9990053C898 /* Utilities */ = {
 			isa = PBXGroup;
 			children = (
-				B999A4C71328F9990053C898 /* benchplot.py */,
 				B999A4C81328F9990053C898 /* Core3D.h */,
 				B999A4C91328F9990053C898 /* Core3D_Prefix.pch */,
 				B999A4CA1328F9990053C898 /* opengl_linux.cpp */,
@@ -1075,8 +1065,6 @@
 				B999A4EA1328F9990053C898 /* generateOctreeFromObj.py in Resources */,
 				B999A4EB1328F9990053C898 /* generatePathFromObj.py in Resources */,
 				B999A4EC1328F9990053C898 /* vecmath.py in Resources */,
-				B999A4ED1328F9990053C898 /* vecmath.pyc in Resources */,
-				B999A4FD1328F9990053C898 /* benchplot.py in Resources */,
 				B99D71ED13AA04C100CDF804 /* Editor.xib in Resources */,
 				B9AE81A6158A12FC00EB0DFE /* item_sphere_damage.dds in Resources */,
 				B9AE81A7158A12FC00EB0DFE /* item_sphere_damage.octree.snz in Resources */,
@@ -1094,8 +1082,6 @@
 				B999A51A1328F9990053C898 /* generateOctreeFromObj.py in Resources */,
 				B999A51B1328F9990053C898 /* generatePathFromObj.py in Resources */,
 				B999A51C1328F9990053C898 /* vecmath.py in Resources */,
-				B999A51D1328F9990053C898 /* vecmath.pyc in Resources */,
-				B999A52D1328F9990053C898 /* benchplot.py in Resources */,
 				B99D71EF13AA04C100CDF804 /* Editor.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1117,8 +1103,6 @@
 				B9FB712F1404F66B00080741 /* generateOctreeFromObj.py in Resources */,
 				B9FB71301404F66B00080741 /* generatePathFromObj.py in Resources */,
 				B9FB71311404F66B00080741 /* vecmath.py in Resources */,
-				B9FB71321404F66B00080741 /* vecmath.pyc in Resources */,
-				B9FB71331404F66B00080741 /* benchplot.py in Resources */,
 				B90144C9163DF46100DA466B /* MainWindow.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
